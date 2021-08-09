@@ -1,0 +1,3 @@
+ALTER TABLE <table_name> CHANGE <column_name> <new_column_name> <data_type> ...
+ALTER TABLE Person CHANGE TinhThanh Thanh varchar(255)
+  
